@@ -1,0 +1,5 @@
+.idea
+lexer-chilero/target
+cooltests/*.s
+/input.test
+/lexer
